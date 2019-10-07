@@ -1,9 +1,17 @@
 ---
-title: /
+title: 'NULL'_pWn | Blog
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# $ whoami
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I’m ‘NULL’_P∆N a Romanian security researcher and security enthusiast.
+
+I usually keep my advises and research for myself without any available public but I’ve decided to put here anything I found.
+
+This blog will always be about security.
+
+This blog may contain in future content about related Romanian vulnerabilities, breaches, prevention, and possibly many more.
+
+I have no interest to make this personal. I need a place to put everything online and here I am.
