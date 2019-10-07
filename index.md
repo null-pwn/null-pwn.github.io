@@ -3,8 +3,6 @@ title: 'NULL'_pWn | Blog
 layout: home
 permalink: /
 ---
-
--------------------------------------------------------------------------------------------------------------------------------
 # $ whoami
 
 I’m ‘NULL’_P∆N a Romanian security researcher and security enthusiast.
@@ -17,7 +15,6 @@ This blog may contain in future content about related Romanian vulnerabilities, 
 
 I have no interest to make this personal. I need a place to put everything online and here I am.
 
-------------------------------------------------------------------------------------------------------------------------------
-
+////////////
 Recent :
-<a href="https://github.com/null-pwn/null-pwn.github.io/blob/master/UPC-Routers.md">UPC Routers Multiple Vulnerabilities</a>
+<a href="UPC-Routers.md">UPC Routers Multiple Vulnerabilities</a>
