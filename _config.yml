@@ -6,9 +6,9 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: contact me on <a href="https://facebook.com/johnsniff443">facebook</a>
 
-style: light # dark (default) or light
+style: dark
 
 plugins:
   - jekyll-seo-tag
